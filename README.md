@@ -23,7 +23,7 @@
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=ShubhamKumar89" alt="visitors"/>
 <br>
-<img align="left" src="https://img.shields.io/github/followers/secretcryptoexpert?label=Follow&style=social"/>
+<img align="left" src="https://img.shields.io/github/followers/ShubhamKumar89?label=Follow&style=social"/>
 
 </ul>
 </div>
