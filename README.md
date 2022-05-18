@@ -60,7 +60,7 @@
 </p>
 <br>
 
-<h2 align="left"> Connect <img src="https://media.giphy.com/media/MFabj1E9mgUsqwVWHu/giphy.gif" height = "20" width="20"></h2>
+<h2 align="left"> Connect <img src="https://media.giphy.com/media/iGyTOk5xPSqhA45GuG/giphy.gif" height = "20" width="20"></h2>
 <p align="left">
 <a href="https://twitter.com/ShubhamKr_89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/shubham-kumar-31b134226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn" height="30" width="40" /></a>
