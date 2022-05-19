@@ -7,7 +7,7 @@
 </p>
 
 <br>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="250" />
 
 <div align = "left">
 <ul font="Pacifico">
@@ -24,26 +24,26 @@
 </ul>
 </div>
 
-<br><br><br>
+<br><br>
 
 <h2> Github Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" > </h2>
 
-<br>
-
-<img align = "right" src="https://github-readme-stats.vercel.app/api?username=ShubhamKumar89&count_private=true&show_icons=true&theme=dark" />
+<img align = "right" width="400" height="300" src="https://github-readme-stats.vercel.app/api?username=ShubhamKumar89&count_private=true&show_icons=true&theme=dark" />
 
 <br>
 
-<img align = "left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamKumar89&layout=compact&theme=chartreuse-dark&langs_count=8" />
+<img align = "left" width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamKumar89&layout=compact&theme=chartreuse-dark&langs_count=8" />
 <img height="150" />
 
-<br>
+<br><br><br><br>
 
-<h2>GitHub <img height = "20" width = "20" src="https://media.giphy.com/media/9LXK53YbaDpWAGhqTO/giphy.gif" /> Activity Graph 📈 </h2>
+<h2 align="left">GitHub <img height = "20" width = "20" src="https://media.giphy.com/media/9LXK53YbaDpWAGhqTO/giphy.gif" /> Activity Graph 📈 </h2>
 
 <br>
 
 ![Shivani's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ShubhamKumar89&hide_border=true&theme=redical)
+
+<img height = "20" width = "20" src="https://activity-graph.herokuapp.com/graph?username=ShubhamKumar89&hide_border=true&theme=redical" />
 
  <img align="right" height="200" width="200" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif">
 
