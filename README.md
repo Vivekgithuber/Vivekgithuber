@@ -36,7 +36,7 @@
 
 <h2 align="left">GitHub <img height = "20" width = "20" src="https://media.giphy.com/media/9LXK53YbaDpWAGhqTO/giphy.gif" /> Activity Graph 📈 </h2>
 
-<img height = "20" width = "20" src="https://activity-graph.herokuapp.com/graph?username=ShubhamKumar89&hide_border=true&theme=redical" />
+<img src="https://activity-graph.herokuapp.com/graph?username=ShubhamKumar89&hide_border=true&theme=redical" />
 
  <img align="right" height="200" width="200" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif">
 
