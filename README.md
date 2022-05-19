@@ -36,9 +36,9 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=ShubhamKumar89&hide_border=true&theme=redical" />
 <p align="center">
- <img align = "left" height="200" width="200" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif">
+ <img align = left height="200" width="200" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif">
  
-<img align= "right" width="300" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamKumar89"></img>
+<img align= "right" width="400" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamKumar89"></img>
 </p>
 <p align="center">
   <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
