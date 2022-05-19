@@ -32,7 +32,7 @@
 
 <img align = "left" width="300" height="200"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamKumar89&layout=compact&theme=chartreuse-dark&langs_count=8" />
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="left">GitHub <img height = "20" width = "20" src="https://media.giphy.com/media/9LXK53YbaDpWAGhqTO/giphy.gif" /> Activity Graph 📈 </h2>
 
