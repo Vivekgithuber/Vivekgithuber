@@ -7,6 +7,7 @@
 </p>
 
 <div align = "left">
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="250" />
 <ul font="Pacifico">
 <li>I'm Shubham Kumar  <img alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="40" height="20" margin-bottom = "23px"></li>
 <li> I am currently learning 5G <img alt="GIF" src="https://media.giphy.com/media/856zBNywYdamcDOTEt/giphy.gif" width="20" height="20" margin-bottom = "23px"> Core Functions.</li>
@@ -17,7 +18,6 @@
 <br>
 <img align="left" src="https://img.shields.io/github/followers/ShubhamKumar89?label=Follow&style=social"/>
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="250" />
 <br><br>
 </ul>
 </div>
@@ -35,11 +35,11 @@
 <h2 align="left">GitHub <img height = "20" width = "20" src="https://media.giphy.com/media/9LXK53YbaDpWAGhqTO/giphy.gif" /> Activity Graph 📈 </h2>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=ShubhamKumar89&hide_border=true&theme=redical" />
-
+<p align="center">
  <img align = "left" height="200" width="200" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif">
  
 <img align= "right" width="300" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamKumar89"></img>
-
+</p>
 <p align="center">
   <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
