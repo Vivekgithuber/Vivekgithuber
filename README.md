@@ -11,9 +11,9 @@
 <li>I'm Shubham Kumar  <img alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="40" height="20" margin-bottom = "23px"></li>
 <li> I am currently learning 5G <img alt="GIF" src="https://media.giphy.com/media/856zBNywYdamcDOTEt/giphy.gif" width="20" height="20" margin-bottom = "23px"> Core Functions.</li>
 <li> Wanna start Conversation? <img alt="GIF" src="https://media.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif" width="20" height="20" margin-bottom = "23px"> Let's start with 5G.</li>
-  <div align=right>
+  <br>
   <img  align=right alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="350" />
-  </div>
+
   
  <br><br>
 
