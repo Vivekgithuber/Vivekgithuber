@@ -7,7 +7,7 @@
 </p>
 
 <div align = "left">
-  <img  align=right alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="350" />
+  <img  align=right alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="300" />
 <br>
 <ul font="Pacifico">
 <li>I'm Shubham Kumar  <img alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="40" height="20" margin-bottom = "23px"></li>
