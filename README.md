@@ -14,9 +14,6 @@
 <li> I am currently learning 5G <img alt="GIF" src="https://media.giphy.com/media/856zBNywYdamcDOTEt/giphy.gif" width="20" height="20" margin-bottom = "23px"> Core Functions.</li>
 <li> Wanna start Conversation? <img alt="GIF" src="https://media.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif" width="20" height="20" margin-bottom = "23px"> Let's start with 5G.</li>
   <br>
- 
-  
- <br><br>
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=ShubhamKumar89" alt="visitors"/>
 <br>
@@ -26,7 +23,7 @@
 </ul>
 </div>
 
-<br><br>
+<br>
 
 <h2> Github Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" > </h2>
 
