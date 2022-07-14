@@ -11,7 +11,7 @@
 <br>
 <ul font="Pacifico">
 <li>I'm Vivek Gupta  <img alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="40" height="20" margin-bottom = "23px"></li>
-<li> I am currently working on Quantum Technology <img alt="GIF" src="https://media.giphy.com/media/856zBNywYdamcDOTEt/giphy.gif" width="20" height="20" margin-bottom = "23px"> Core Functions.</li>
+<li> I am currently working on Quantum Technology <img alt="GIF" src="https://media.giphy.com/media/856zBNywYdamcDOTEt/giphy.gif" width="20" height="20" margin-bottom = "23px"> </li>
 <li> Wanna start Conversation? <img alt="GIF" src="https://media.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif" width="20" height="20" margin-bottom = "23px"> Let's start with Quantum States.</li>
   <br>
 
