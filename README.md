@@ -3,16 +3,16 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20Vivek%20Gupta%20👋;Learning%20Magma%205G;Looking%20for%20me?;Let's%20Connect!&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20Vivek%20Gupta%20👋;Learning%20Quantum %20Computing;Looking%20for%20me?;Let's%20Connect!&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 <div align = "left">
   <img  align=right alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="300" />
 <br>
 <ul font="Pacifico">
-<li>I'm Shubham Kumar  <img alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="40" height="20" margin-bottom = "23px"></li>
-<li> I am currently learning 5G <img alt="GIF" src="https://media.giphy.com/media/856zBNywYdamcDOTEt/giphy.gif" width="20" height="20" margin-bottom = "23px"> Core Functions.</li>
-<li> Wanna start Conversation? <img alt="GIF" src="https://media.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif" width="20" height="20" margin-bottom = "23px"> Let's start with 5G.</li>
+<li>I'm Vivek Gupta  <img alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="40" height="20" margin-bottom = "23px"></li>
+<li> I am currently working on Quantum Technology <img alt="GIF" src="https://media.giphy.com/media/856zBNywYdamcDOTEt/giphy.gif" width="20" height="20" margin-bottom = "23px"> Core Functions.</li>
+<li> Wanna start Conversation? <img alt="GIF" src="https://media.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif" width="20" height="20" margin-bottom = "23px"> Let's start with Quantum States.</li>
   <br>
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Vivekqc123" alt="visitors"/>
@@ -44,6 +44,6 @@
 <p align="left">
 <a href="https://twitter.com/ShubhamKr_89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/shubham-kumar-31b134226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn" height="30" width="40" /></a>
-<a href="https://www.instagram.com/shubhamkr_89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="mailto:shubham.kumar@ramanujan.du.ac.in" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png" alt="Gmail" height="30" width="30" /></a>
+<a href="https://www.instagram.com/just_vivek100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="mailto:vivekguptaair1@gmail.com" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png" alt="Gmail" height="30" width="30" /></a>
 </p>
